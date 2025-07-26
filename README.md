@@ -4,4 +4,6 @@ This is a variation on a [drive unit](https://www.youtube.com/shorts/hlt01rP08Dk
 
 ![Drive Unit without the track.](./DriveUnit.png?raw=true)
 
+The model, `DriveUnit.io`, the PDF file of instructions, and the render, made with [Bricklink Studio](https://www.bricklink.com/v3/studio/download.page). 
+
 Feel free to open an issue with your comments and suggestions.
